@@ -1,6 +1,6 @@
 # Vue Tailwind Portfolio
 
-Minimal portfolio made on VUE JS and Tailwind CSS.
+Minimal portfolio made on Vue.Js and Tailwind CSS.
 
 ## Features
 
