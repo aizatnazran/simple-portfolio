@@ -8,6 +8,14 @@ Minimal portfolio made on VUE JS and Tailwind CSS.
 - Fetched Projects from github repositories
 - Mobile responsive
 
+### Installation
+
+First, clone the repository to your local machine:
+
+```
+  git clone https://github.com/aizatnazran/simple-portfolio.git
+```
+
 ## Run Locally
 
 Go to the project directory
@@ -33,3 +41,5 @@ Build the project
 ```bash
   npm run build
 ```
+
+
