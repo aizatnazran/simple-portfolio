@@ -1,7 +1,7 @@
 <template>
   <div>
     <img
-      src="../assets/imgs/profile.jpg"
+      src="../assets/imgs/profile3.jpg"
       class="w-[180px] h-[180px] sm:w-[200px] sm:h-[200px] mx-auto rounded-full shadow-md"
     />
     <h1
