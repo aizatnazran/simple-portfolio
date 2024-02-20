@@ -1,12 +1,20 @@
 # Vue Tailwind Portfolio
 
-Minimal portfolio made on VUE JS and Tailwind CSS.
+Minimal portfolio made on Vue.Js and Tailwind CSS.
 
 ## Features
 
 - Light/dark mode toggle
 - Fetched Projects from github repositories
 - Mobile responsive
+
+### Installation
+
+First, clone the repository to your local machine:
+
+```
+  git clone https://github.com/aizatnazran/simple-portfolio.git
+```
 
 ## Run Locally
 
@@ -33,3 +41,5 @@ Build the project
 ```bash
   npm run build
 ```
+
+
