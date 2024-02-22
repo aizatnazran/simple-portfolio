@@ -2,6 +2,9 @@
 
 Minimal portfolio made on Vue.Js and Tailwind CSS.
 
+![Portfolio](portfolio.png)
+
+
 ## Features
 
 - Light/dark mode toggle
