@@ -11,7 +11,7 @@
     </h1>
     <hr class="border-1 my-4 border-gray-400 w-14 mx-auto" />
     <p class="text-center text-xl sm:text-2xl text-gray-700 dark:text-gray-300">
-      Fullstack Developer
+      DevOps Engineer
     </p>
   </div>
 </template>
